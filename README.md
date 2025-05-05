@@ -74,4 +74,3 @@ This project was collaboratively developed by a team of 4 students as part of a 
 * Practicing Object-Oriented Programming in Python
 * Visualizing algorithm behavior using charts
 
-![image](https://github.com/user-attachments/assets/6d29db67-d993-472f-b5df-421a05fd136f)
